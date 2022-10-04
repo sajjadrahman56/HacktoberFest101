@@ -22,7 +22,14 @@
 <a href="https://github.com/sajjad-njr/hacktoberfest101/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sajjad-njr/hacktoberfest101?color=2b9348" alt="License Badge"/></a>
 
 </div>
+<div>
 <p>This is a repo with learning propose to make pull request( PR ) and get contribute on opensource project. Made specifically for HACKTOBERFEST 2022!</p>
+<p> This repository aims to help code beginners with their first successful pull request and open-source contribution. 🥳</p>
+
+  <p>👨‍💻 Feel free to use this project to make your first contribution to an open-source project on GitHub</p>
+
+<p>🎊 Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.</p>
+
 <br/>
  
 What you can do 
