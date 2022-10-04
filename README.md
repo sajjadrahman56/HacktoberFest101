@@ -24,7 +24,7 @@
 </div>
 <div>
 <p>This is a repo with learning propose to make pull request( PR ) and get contribute on opensource project. Made specifically for HACKTOBERFEST 2022!</p>
-<p> This repository aims to help code beginners with their first successful pull request and open-source contribution. 🥳</p>
+<p> This repository aims to help code beginners with their first successful pull request and open-source contribution. 🎉🎊</p>
 
   <p>👨‍💻 Feel free to use this project to make your first contribution to an open-source project on GitHub</p>
 
@@ -76,10 +76,5 @@ What you can do
 * Wait for your PR review and merge approval!
  
 
-
-* Contributors
-
-Thanks to all the people who contribute.
-
-[![](https://contributors-img.web.app/image?repo=sajjad-njr/hacktoberfest101)](https://github.com/sajjad-njr/hacktoberfest101/graphs/contributors)
+ 
 
