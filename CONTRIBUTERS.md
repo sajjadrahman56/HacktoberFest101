@@ -5,8 +5,10 @@
 <table>
   
 <tr>
- <td align="center"><a href="https://github.com/sajjad-njr"><kbd><img src="https://avatars3.githubusercontent.com/sajjad-njr?size=400" width="100px;" alt=""/></kbd>
- <br /><sub><b>Sajjad Rahman</b></sub></a><br /><a href="https://github.com/sajjad-njr" title="Code"> :computer: </a> </td>
+ <td align="center"><a href="https://github.com/sajjad-njr"><kbd><img src="https://avatars3.githubusercontent.com/sajjad-njr?size=400" width="100px;" alt=""/></kbd> <br /><sub><b>SR</b></sub></a><br /><a href="https://github.com/ssa99sa65" title="Code"> :computer: </a> </td>
+ 
+ <td align="center"><a href="https://github.com/sajjad-njr"><kbd><img src="https://avatars3.githubusercontent.com/ssa99sa65?size=400" width="100px;" alt=""/></kbd>
+ <br /><sub><b>SR</b></sub></a><br /><a href="https://github.com/ssa99sa65" title="Code"> :computer: </a> </td>
   
 </tr>
  
