@@ -3,9 +3,9 @@
 void push();
 void pop();
 void show();
-int stack[100],i,n,j,top=-1,choice=0;
+int stack[100],i,num,j,top=-1,choice=0;
 void main(){
-	printf("enter the no.of elements in the stack");
+	printf("enter the number of elements in the stack");
 	scanf("%d",&n);
 	printf("**********stack operations using array*********");
 	printf("\n      \n");
@@ -36,7 +36,7 @@ void main(){
 	
 }
 void push(){
-	int val;
+	int value;
 	if(top==n){
 		printf("\noverflow\n");
 	}
